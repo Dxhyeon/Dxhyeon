@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5A9F2&height=300&section=header&text=Dxhyeon's%20Github&fontSize=90&fontColor=d6ace6" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=F5A9F2&height=300&section=header&text=Dxhyeon's%20Github&fontSize=90&fontColor=ffd2cf" />
 <!--
 **Dxhyeon/Dxhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
