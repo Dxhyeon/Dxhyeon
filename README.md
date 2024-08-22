@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Blog Badge](http://img.shields.io/badge/-Blog-blue?style=flat-square&logo=github&link=https://dxhyeon.github.io/)](https://zzsza.github.io/)　
-  [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdxhyeon@gmail.com)](mailto:snugyun01@gmail.com)
+  [![Blog Badge](http://img.shields.io/badge/-Blog-blue?style=flat-square&logo=github&link=https://dxhyeon.github.io/)](https://dxhyeon.github.io/)　
+  [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdxhyeon@gmail.com)](mailto:kimdxhyeon@gmail.com)
     
 </div>
