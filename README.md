@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F5A9F2&height=100&section=header&text=Dxhyeon's%20Github&fontSize=90&fontColor=ffd2cf" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F5A9F2&height=95&section=header&text=Dxhyeon's%20Github&fontSize=90&fontColor=ffd2cf" />
 
 </div>
 
@@ -13,6 +13,8 @@
 
 <br>
 <br>
+<br>
+
 
 <div align="center">
   
