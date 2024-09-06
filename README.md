@@ -10,7 +10,7 @@
 
 </div>
 
-<h3 align="center">📚 Cyber Security, Penetration Testing 📚</h4>
+<h3 align="center">📚 Cyber Security ▪️ Penetration Testing 📚</h4>
 
 <br>
 <br>
@@ -23,3 +23,6 @@
   [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdxhyeon@gmail.com)](mailto:kimdxhyeon@gmail.com)
     
 </div>
+
+
+
