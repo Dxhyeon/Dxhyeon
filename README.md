@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  [![Blog Badge](http://img.shields.io/badge/-Blog-gray?style=flat-square&logo=github&link=https://dxhyeon.github.io/)](https://dxhyeon.github.io/)　
+  [![Blog Badge](http://img.shields.io/badge/-Blog-gray?style=flat-square&logo=github&link=https://d0hyeon.tistory.com/)](https://d0hyeon.tistory.com/)　
   [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdxhyeon@gmail.com)](mailto:kimdxhyeon@gmail.com)
     
 </div>
